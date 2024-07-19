@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
+
+body {
+    background-color: #3b3a467c;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    display: none;
+}
+
+#container {
+    font-family: "Indie Flower", cursive;
+    background-size: cover; /* Ensures the image covers the entire container */
+    background-repeat: no-repeat; /* Prevents the image from repeating */
+    background-position: center center; /* Centers the image */
+    height: 650px;
+    width: 650px;
+    display: none;
+    justify-content: center; /* Center horizontally */
+    align-items: center; /* Center vertically */
+    position: relative;
+    animation: sway 15s infinite;
+    transform-origin: 50% 100% 0;
+}
+@keyframes sway {
+    0%, 100%{ transform: rotate(-3deg);}
+    50%{ transform: rotate(3deg); }
+}
+
+#hintDisplay {
+    font-size: 20px; /* Adjust the font size as needed */
+    color: white; /* Adjust the text color as needed */
+    text-align: center;
+    padding: 20px;
+     /* Optional: Add a background to make the text more readable */
+    margin-right: 25px;
+    width: 50%;
+    text-shadow: 0px 0px 10px #000;
+}
+
+#closeBtn {
+    position: absolute;
+    font-weight: bold;
+    font-size: 25px;
+    font-family: "Indie Flower", cursive;
+    text-shadow: 0px 0px 10px #000;
+    bottom: 10%;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    background-color: transparent;
+    text-transform: uppercase;
+    color: white;
+    cursor: pointer;
+}
+
+#closeBtn:hover {
+    opacity: 0.8;
+}
