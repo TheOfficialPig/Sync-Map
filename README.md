@@ -1,7 +1,5 @@
 # Sync-Map
 
-![DISCORD|570x321](upload://eHq9dfrpOOGf2XPzQX8jcTkOsbf.jpeg)
-
 ## [Preview]
 > :page_with_curl: **Description**
 ### **Secret Map and Riddle Discoveries**
