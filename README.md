@@ -18,7 +18,9 @@ Unlock the secrets of your city with our Secret Map and Riddle Discovery! This v
 > :computer: **Download**
 
 [Escrow](https://store.syncscripts.net/category/2703803)  **(Free)**
+
 [Source code](https://store.syncscripts.net/category/2707216)
+
 [GitHub](https://github.com/TheOfficialPig/Sync-Map)
 
 > :book: **Installation**
