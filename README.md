@@ -1,5 +1,4 @@
 # Sync-Map 
-i will not be updating this github for the updated version get @ https://store.syncscripts.net/category/2703803
 
 ## [Preview]
 > :page_with_curl: **Description**
