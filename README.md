@@ -1,4 +1,5 @@
-# Sync-Map -- i will not be updating this github for the updated version @ https://store.syncscripts.net/category/2703803
+# Sync-Map 
+i will not be updating this github for the updated version @ https://store.syncscripts.net/category/2703803
 
 ## [Preview]
 > :page_with_curl: **Description**
