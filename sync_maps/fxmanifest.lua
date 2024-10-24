@@ -31,4 +31,3 @@ escrow_ignore {
 }
 
 lua54 'yes'
-dependency '/assetpacks'
